@@ -1,0 +1,20 @@
+# Bybit 相关域名和关键字分流
+DOMAIN-KEYWORD,bybit,Proxy-TW
+DOMAIN-KEYWORD,myfin,Proxy-TW
+DOMAIN-KEYWORD,bycsi,Proxy-TW
+DOMAIN-KEYWORD,bytick,Proxy-TW
+DOMAIN-KEYWORD,byapis,Proxy-TW
+DOMAIN-KEYWORD,bycbe,Proxy-TW
+DOMAIN-KEYWORD,bybdc6,Proxy-TW
+DOMAIN-KEYWORD,byd3c3,Proxy-TW
+DOMAIN-KEYWORD,bitverse,Proxy-TW
+DOMAIN-KEYWORD,appsflyersdk,Proxy-TW
+DOMAIN-KEYWORD,geetest,Proxy-TW
+DOMAIN-KEYWORD,byabcde,Proxy-TW
+
+# Bybit 相关域名后缀分流
+DOMAIN-SUFFIX,ip.sb,Proxy-TW
+DOMAIN-SUFFIX,ipapi.co,Proxy-TW
+DOMAIN-SUFFIX,ipwho.is,Proxy-TW
+DOMAIN-SUFFIX,ffe390afd658c19dcbt707e0597b846d.de,Proxy-TW
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,Proxy-TW
